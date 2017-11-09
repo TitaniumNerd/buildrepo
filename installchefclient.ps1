@@ -30,7 +30,7 @@
 #     Possible Values:
 #      - text:auto
 #      - text:i386
-#      - text:_x86_64
+#      - text:x86_64
 #   CHEF_CLIENT_DAEMON:
 #     Category: CHEF
 #     Description: 'Defines the Omnitruck daemon configuration for the installation.  Default is auto.'
